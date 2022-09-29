@@ -24,6 +24,8 @@ Page 10: https://raw.githubusercontent.com/partial-arts/play-homogen-sub/main/pa
 
 Page 11: https://raw.githubusercontent.com/partial-arts/play-homogen-sub/main/page-11.png
 
+https://www.desmos.com/calculator/hocupu0mtl
+
 Page 12: https://raw.githubusercontent.com/partial-arts/play-homogen-sub/main/page-12.png
 
 Page 13: https://raw.githubusercontent.com/partial-arts/play-homogen-sub/main/page-13.png
